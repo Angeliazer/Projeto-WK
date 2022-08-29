@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/09 19:05:13.000.699,=C:\Users\yyrig\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/08/27 07:47:51.000.014,=C:\Users\yyrig\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/08/27 07:49:40.000.930,C:\WK Techonology\untMain.dfm=C:\Users\yyrig\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022/08/27 07:49:40.000.930,C:\WK Techonology\untMain.pas=C:\Users\yyrig\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/08/27 07:50:01.000.670,=C:\Users\yyrig\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/08/27 07:50:19.000.701,C:\WK Techonology\untClientes.pas=C:\Users\yyrig\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/08/27 07:50:48.000.431,=C:\Users\yyrig\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/08/27 07:51:08.000.573,C:\WK Techonology\untProdutos.pas=C:\Users\yyrig\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/08/27 07:52:24.000.346,C:\WK Techonology\uMain.pas=C:\WK Techonology\untMain.pas</Transaction>
+    <Transaction>2022/08/27 07:52:24.000.346,C:\WK Techonology\uMain.dfm=C:\WK Techonology\untMain.dfm</Transaction>
+    <Transaction>2022/08/27 07:52:33.000.432,C:\WK Techonology\uClientes.pas=C:\WK Techonology\untClientes.pas</Transaction>
+    <Transaction>2022/08/27 07:52:41.000.122,C:\WK Techonology\uProdutos.pas=C:\WK Techonology\untProdutos.pas</Transaction>
+    <Transaction>2022/08/27 07:56:27.000.891,C:\WK Techonology\Project3.dproj=C:\Users\yyrig\OneDrive\Documentos\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2022/08/27 08:13:33.000.614,=C:\WK Techonology\Unit1.pas</Transaction>
+    <Transaction>2022/08/27 08:13:40.000.359,C:\WK Techonology\uCon.pas=C:\WK Techonology\Unit1.pas</Transaction>
+    <Transaction>2022/08/27 08:19:59.000.261,=C:\WK Techonology\Unit1.pas</Transaction>
+    <Transaction>2022/08/27 08:22:05.000.726,C:\WK Techonology\Unit1.dfm=C:\WK Techonology\uCon.dfm</Transaction>
+    <Transaction>2022/08/27 08:22:05.000.726,C:\WK Techonology\Unit1.pas=C:\WK Techonology\uCon.pas</Transaction>
+    <Transaction>2022/08/27 09:43:58.000.773,=C:\WK Techonology\Unit1.pas</Transaction>
+    <Transaction>2022/08/27 09:47:33.000.202,C:\WK Techonology\Unit1.pas=C:\WK Techonology\uGravaPedido.pas</Transaction>
+    <Transaction>2022/08/27 09:57:55.000.783,C:\WK Techonology\uGravaPedido.pas=C:\WK Techonology\uGravaDadosGerais.pas</Transaction>
+    <Transaction>2022/08/27 15:38:25.000.879,=C:\WK Techonology\Unit1.pas</Transaction>
+    <Transaction>2022/08/27 15:38:43.000.499,C:\WK Techonology\uDadosgeraispedidos.pas=C:\WK Techonology\Unit1.pas</Transaction>
+    <Transaction>2022/08/27 16:47:44.000.725,C:\WK Techonology\uConexao.dfm=C:\WK Techonology\uCon.dfm</Transaction>
+    <Transaction>2022/08/27 16:47:44.000.725,C:\WK Techonology\uConexao.pas=C:\WK Techonology\uCon.pas</Transaction>
+    <Transaction>2022/08/28 15:24:48.000.282,=C:\WK Techonology\Unit1.pas</Transaction>
+    <Transaction>2022/08/28 15:25:02.000.374,C:\WK Techonology\Unit1.pas=C:\WK Techonology\uAcharCliente.pas</Transaction>
+    <Transaction>2022/08/28 16:04:34.000.962,=C:\WK Techonology\Unit1.pas</Transaction>
+    <Transaction>2022/08/28 16:04:51.000.837,C:\WK Techonology\Unit1.pas=C:\WK Techonology\uAcharProduto.pas</Transaction>
+    <Transaction>2022/08/28 17:54:40.000.744,=C:\WK Techonology\Unit1.pas</Transaction>
+    <Transaction>2022/08/28 17:55:08.000.833,C:\WK Techonology\Unit1.pas=C:\WK Techonology\uAcharDadosGeraisPedido.pas</Transaction>
+    <Transaction>2022/08/28 20:35:49.000.917,C:\WK Techonology\uGravaDadosGerais.pas=</Transaction>
+    <Transaction>2022/08/29 12:50:06.000.375,C:\WK Techonology\Project3.dproj=C:\Users\yyrig\OneDrive\Documentos\ProjWk.dproj</Transaction>
+    <Transaction>2022/08/29 12:58:07.649,C:\WK Technology\ProjWk.dproj=C:\Users\yyrig\OneDrive\Documentos\ProjWk.dproj</Transaction>
+    <Transaction>2022/08/29 12:58:18.379,C:\WK Technology\ProjWk.dproj=C:\WK Technology\ProjWk.dproj</Transaction>
+    <Transaction>2022/08/29 13:00:03.092,C:\WK Technology\ProjWk.dproj=C:\WK Technology\ProjWk.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
